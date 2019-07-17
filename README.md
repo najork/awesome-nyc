@@ -45,6 +45,8 @@ A collection of awesome things to do in New York City.
 
 #### Asian
 
+- [Hao Noodle](https://haonoodle.com/)
+- [MáLà Project](https://www.malaproject.nyc/)
 - [Pig and Khao](https://www.pigandkhao.com/)
 
 #### Brunch
@@ -104,6 +106,7 @@ A collection of awesome things to do in New York City.
 
 #### Date Spots
 
+- [Amélie](https://www.ameliewinebar.com/west-village)
 - [Anfora](http://www.anforanyc.com/)
 - [Vin Sur Vingt](http://vsvwinebars.com/location-west-village/)
 
