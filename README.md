@@ -93,6 +93,7 @@ A collection of awesome things to do in New York City.
 - Central Park
 - The Highline
 - Prospect Park
+- Rockaway Beach
 
 ### Drink
 
