@@ -131,6 +131,6 @@ A collection of awesome things to do in New York City.
 
 ### Contribution
 
-Contributions welcomed with ❤
+Contributions welcomed with  ❤  please keep entries alphabetized
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
