@@ -75,8 +75,8 @@ A collection of awesome things to do in New York City.
 #### Italian
 
 - [Don Angie](https://www.donangie.com/)
-- [Malaparte](https://www.theinfatuation.com/new-york/reviews/malaparte)
 - [il Buco Alimentari & Vineria](https://ilbuco.com/pages/alimentari)
+- [Malaparte](https://www.theinfatuation.com/new-york/reviews/malaparte)
 
 #### Tourist Staples
 
