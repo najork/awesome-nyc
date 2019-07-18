@@ -14,6 +14,7 @@ A collection of awesome things to do in New York City.
     - [Tasty](#tasty)
   - [Burgers](#burgers)
   - [Groups](#groups)
+  - [Italian](#italian)
   - [Tourist Staples](#tourist-staples)
 - [Landmarks](#landmarks)
   - [Markets](#markets)
@@ -57,6 +58,7 @@ A collection of awesome things to do in New York City.
 
 ##### Tasty
 
+- [Buvette](https://ilovebuvette.com/)
 - [Diner](http://dinernyc.com/)
 - [Maison Pickle](http://www.maisonpickle.com/)
 
@@ -69,6 +71,12 @@ A collection of awesome things to do in New York City.
 
 - [Ivan Ramen](https://www.ivanramen.com/)
 - [Kiki's](https://www.theinfatuation.com/new-york/reviews/kikis)
+
+#### Italian
+
+- [Don Angie](https://www.donangie.com/)
+- [Malaparte](https://www.theinfatuation.com/new-york/reviews/malaparte)
+- [il Buco Alimentari & Vineria](https://ilbuco.com/pages/alimentari)
 
 #### Tourist Staples
 
