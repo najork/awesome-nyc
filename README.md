@@ -15,6 +15,7 @@ A collection of awesome things to do in New York City.
   - [Burgers](#burgers)
   - [Groups](#groups)
   - [Italian](#italian)
+  - [Pizza](#pizza)
   - [Tourist Staples](#tourist-staples)
 - [Landmarks](#landmarks)
   - [Markets](#markets)
@@ -80,6 +81,10 @@ A collection of awesome things to do in New York City.
 - [Ivan Ramen](https://www.ivanramen.com/)
 - [Kiki's](https://www.theinfatuation.com/new-york/reviews/kikis)
 
+#### Pizza
+
+- [Best Pizza](https://www.bestpizzawilliamsburg.com/menu/pies/): Williamsburg pizzaria run by a classically-trained chef. A very solid slice.
+
 #### Italian
 
 - [Don Angie](https://www.donangie.com/)
@@ -118,8 +123,8 @@ A collection of awesome things to do in New York City.
 
 #### Beer Gardens
 
-- [Radegast](https://radegasthall.com/)
-- [Standard Biergarten](https://www.standardhotels.com/new-york/features/biergarten-nyc)
+- [Radegast](https://radegasthall.com/): German-style beer hall with a live (and lively!) brass band. Best enjoyed by the liter.
+- [Standard Biergarten](https://www.standardhotels.com/new-york/features/biergarten-nyc): Another German-style beer hall, albeit several degrees less rowdy than Radegast.
 
 #### Date Spots
 
@@ -137,8 +142,9 @@ A collection of awesome things to do in New York City.
 
 #### Outdoors
 
-- [Berry Park](http://www.berryparkbk.com/)
-- [Freehold](https://www.freeholdbrooklyn.com/)
+- [Berry Park](http://www.berryparkbk.com/): Nice rooftop, along with an indoor area with lawn games.
+- [Freehold](https://www.freeholdbrooklyn.com/): Can be a bit of a scene at times, but fun for groups.
+- [Union Pool](https://union-pool.com/): Allegedly used to be a pool supply store, because New York City is chock-full of pools. The frozen margs are tasty, and critically, very strong.
 
 #### Speakeasy
 
@@ -149,7 +155,7 @@ A collection of awesome things to do in New York City.
 
 #### Tourist Staples
 
-- [McSorley's Ale House](https://mcsorleysoldalehouse.nyc/)
+- [McSorley's Ale House](https://mcsorleysoldalehouse.nyc/): Sawdust on the floors. An institution. Only two choices of beer: light or dark.
 
 ### Contribution
 
