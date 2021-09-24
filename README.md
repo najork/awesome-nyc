@@ -56,6 +56,7 @@ A collection of awesome things to do in New York City.
 - [Hao Noodle](https://haonoodle.com/)
 - [MáLà Project](https://www.malaproject.nyc/): Contemporary Chinese restaurant. Spicy and delicious.
 - [Pig and Khao](https://www.pigandkhao.com/)
+- [Thursday Kitchen](https://www.thursdaykitchen.com/): Korean tapas. Impossible to go wrong with any of the dishes.
 - [Win Son](https://winsonbrooklyn.com/): Contemporary Taiwanese restaurant. Impossible to go wrong with your order; everything on the menu is delicious.
 
 #### Brunch
@@ -138,7 +139,6 @@ A collection of awesome things to do in New York City.
 - [The Garret](http://www.thegarretwest.com/): Hidden on top of a Five Guys. Walk towards the register and there's a staircase to the left. Great place to take friends who are visiting the city.
 - [Pineapple Club](https://pineappleclub.com/): Big fan of the mezcal ginger margarita. The drinks outshine the food.
 - [Proletariat](https://www.proletariatny.com/): Craft beer bar. Very small, with maybe half a dozen bar stools.
-- [Thursday Kitchen](https://www.thursdaykitchen.com/): Korean tapas. Impossible to go wrong with any of the dishes.
 
 #### Outdoors
 
