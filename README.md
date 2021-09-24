@@ -128,17 +128,17 @@ A collection of awesome things to do in New York City.
 
 #### Date Spots
 
-- [Amélie](https://www.ameliewinebar.com/west-village)
-- [Anfora](http://www.anforanyc.com/)
-- [Vin Sur Vingt](http://vsvwinebars.com/location-west-village/)
+- [Amélie](https://www.ameliewinebar.com/home-amelie-west)
+- [Anfora](http://www.anforanyc.com/): Cocktails in an intimate ambiance.
+- [Vin Sur Vingt](http://vsvwinebars.com/location-west-village/): Cozy, authentic-feeling French wine bar. The West Village location might be closed now.
 - [Skin Contact](https://skincontact.nyc/): Great selection of natural wines with some very friendly owners.
 
 #### Hidden Gems
 
-- [The Garret](http://www.thegarretwest.com/)
-- [Hudson Hound](http://www.hudsonhoundnyc.com/)
-- [Pineapple Club](https://pineappleclub.com/)
-- [Proletariat](https://www.proletariatny.com/)
+- [The Garret](http://www.thegarretwest.com/): Hidden on top of a Five Guys. Walk towards the register and there's a staircase to the left. Great place to take friends who are visiting the city.
+- [Pineapple Club](https://pineappleclub.com/): Big fan of the mezcal ginger margarita. The drinks outshine the food.
+- [Proletariat](https://www.proletariatny.com/): Craft beer bar. Very small, with maybe half a dozen bar stools.
+- [Thursday Kitchen](https://www.thursdaykitchen.com/): Korean tapas. Impossible to go wrong with any of the dishes.
 
 #### Outdoors
 
@@ -149,9 +149,9 @@ A collection of awesome things to do in New York City.
 #### Speakeasy
 
 - [Blind Barber](https://blindbarber.com/pages/east-village): Surprisingly good cocktails. Ignore the people ordering vodka sodas and ask for a pisco sour.
-- [Employees Only](http://employeesonlynyc.com/)
-- [Fig 19](https://www.figurenineteen.com/)
-- [The Roost](https://newyork.theroostnyc.com/)
+- [Employees Only](http://employeesonlynyc.com/): Not quite a speakeasy, but very minimal street presence. Great ambiance and decor, but can get crowded at times.
+- [Fig 19](https://www.figurenineteen.com/): Tucked behind an art gallery, albeit a very sparse one. Fun for groups.
+- [The Roost](https://newyork.theroostnyc.com/): Walk in through a coffee shop. Fairly good cocktails, great ambiance.
 
 #### Tourist Staples
 
