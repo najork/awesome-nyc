@@ -86,20 +86,17 @@ A collection of awesome things to do in New York City.
 
 #### Asian
 
+- [Birds of a Feather](https://birdsofafeatherny.com/): Spicy Sichuan food, best enjoyed family-style.
 - [Cote](https://www.cotenyc.com/): Michelin-starred Korean restaurant with a delicious (and very reasonably-priced) prix fixe "butcher's feast" meal. Don't miss the cocktails either.
-- The Bao: East Village soup dumpling spot. The mapo tofu is also tasty.
-- [Hao Noodle](https://haonoodle.com/)
+- [The Bao](https://www.theinfatuation.com/new-york/reviews/the-bao): East Village soup dumpling spot. The mapo tofu is also tasty.
 - [MáLà Project](https://www.malaproject.nyc/): Contemporary Chinese restaurant. Spicy and delicious.
-- [Pig and Khao](https://www.pigandkhao.com/)
+- [Samurai Mama](https://www.samuraimama.com/): Exceptionally good sushi for a reasonable price. Punches way above its weight class in terms of quality.
 - [Thursday Kitchen](https://www.thursdaykitchen.com/): Korean tapas. Impossible to go wrong with any of the dishes.
 - [Win Son](https://winsonbrooklyn.com/): Contemporary Taiwanese restaurant. Impossible to go wrong with your order; everything on the menu is delicious.
 
 #### Brunch
 
-- [Buvette](https://ilovebuvette.com/)
-- [Diner](http://dinernyc.com/)
 - [Jacob's Pickles](https://jacobs.picklehospitality.com/): Large portions of comfort food. Be prepared to leave in a food coma.
-- [Maison Pickle](http://www.maisonpickle.com/)
 - [Tartine](https://tartine.nyc/): Cozy French bistro in the West Village, great for brunch. Corned beef hash is a personal favorite, but it's hard to go wrong with anything on the menu.
 
 #### Burgers
@@ -108,9 +105,10 @@ A collection of awesome things to do in New York City.
 - [David's Cafe](http://www.davidscafenyc.com/)
 - [The Spotted Pig](https://www.thespottedpig.com/)
 
-#### French
+#### Deli
 
-- [Benoit](https://www.benoitny.com/): Fine dining just south of Central Park, great if you're planning a museum day. The pâté comes with a terracotta jar of cornichons. Some of the best french fries I've ever had.
+- [Faicco's](https://www.faiccosnyc.com/): Massive sandwiches. The italian special is my personal favorite.
+- [Katz's Deli](https://www.katzsdelicatessen.com/): A New York City staple. Go for the pastrami, don't bother with the other meats.
 
 #### Groups
 
@@ -126,11 +124,6 @@ A collection of awesome things to do in New York City.
 - [Don Angie](https://www.donangie.com/)
 - [il Buco Alimentari & Vineria](https://ilbuco.com/pages/alimentari)
 - [Malaparte](https://www.theinfatuation.com/new-york/reviews/malaparte)
-
-#### Tourist Staples
-
-- [Faicco's](https://www.faiccosnyc.com/): Massive sandwiches. The italian special is my personal favorite.
-- [Katz's Deli](https://www.katzsdelicatessen.com/): A New York City staple. Go for the pastrami, don't bother with the other meats.
 
 ### Landmarks
 
