@@ -86,6 +86,7 @@ A collection of awesome things to do in New York City.
 - [The Bao](https://www.theinfatuation.com/new-york/reviews/the-bao): East Village soup dumpling spot. The mapo tofu is also tasty.
 - [Birds of a Feather](https://birdsofafeatherny.com/): Spicy Sichuan food, best enjoyed family-style.
 - [Cote](https://www.cotenyc.com/): Michelin-starred Korean restaurant with a delicious (and very reasonably-priced) prix fixe "butcher's feast" meal. Don't miss the cocktails either.
+- [Jua](https://juanyc.com/): Another Michelin-starred Korean restaurant, this one with a seafood focus. They do two seatings a night and the food is delicious.
 - [Kings Co. Imperial](https://www.kingscoimperial.com/): Spicy Sichuan, even better than Birds of a Feather.
 - [MáLà Project](https://www.malaproject.nyc/): Contemporary Chinese restaurant. Spicy and delicious.
 - [Samurai Mama](https://www.samuraimama.com/): Exceptionally good sushi for a reasonable price. Punches way above its weight class in terms of quality.
