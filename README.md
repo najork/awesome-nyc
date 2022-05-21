@@ -22,10 +22,6 @@ A collection of awesome things to do in New York City.
   - [Groups](#groups)
   - [Italian](#italian)
   - [Pizza](#pizza)
-- [Landmarks](#landmarks)
-  - [Markets](#markets)
-  - [Museums](#museums)
-  - [Parks](#parks)
 - [Contribution](#contribution)
 
 ---
@@ -35,6 +31,7 @@ A collection of awesome things to do in New York City.
 #### Beer Gardens
 
 - [Radegast](https://radegasthall.com/): German-style beer hall with a live (and lively!) brass band. Best enjoyed by the liter.
+- [Spritzenhaus](https://spritzenhaus33.business.site/): A more chilled-out version of Radegast. Less brass band, more card games at the table.
 - [Standard Biergarten](https://www.standardhotels.com/new-york/features/biergarten-nyc): Another German-style beer hall, albeit several degrees less rowdy than Radegast.
 
 #### Date Spots
@@ -86,9 +83,10 @@ A collection of awesome things to do in New York City.
 
 #### Asian
 
+- [The Bao](https://www.theinfatuation.com/new-york/reviews/the-bao): East Village soup dumpling spot. The mapo tofu is also tasty.
 - [Birds of a Feather](https://birdsofafeatherny.com/): Spicy Sichuan food, best enjoyed family-style.
 - [Cote](https://www.cotenyc.com/): Michelin-starred Korean restaurant with a delicious (and very reasonably-priced) prix fixe "butcher's feast" meal. Don't miss the cocktails either.
-- [The Bao](https://www.theinfatuation.com/new-york/reviews/the-bao): East Village soup dumpling spot. The mapo tofu is also tasty.
+- [Kings Co. Imperial](https://www.kingscoimperial.com/): Spicy Sichuan, even better than Birds of a Feather.
 - [MáLà Project](https://www.malaproject.nyc/): Contemporary Chinese restaurant. Spicy and delicious.
 - [Samurai Mama](https://www.samuraimama.com/): Exceptionally good sushi for a reasonable price. Punches way above its weight class in terms of quality.
 - [Thursday Kitchen](https://www.thursdaykitchen.com/): Korean tapas. Impossible to go wrong with any of the dishes.
@@ -97,16 +95,16 @@ A collection of awesome things to do in New York City.
 #### Brunch
 
 - [Jacob's Pickles](https://jacobs.picklehospitality.com/): Large portions of comfort food. Be prepared to leave in a food coma.
-- [Tartine](https://tartine.nyc/): Cozy French bistro in the West Village, great for brunch. Corned beef hash is a personal favorite, but it's hard to go wrong with anything on the menu.
+- [Tartine](https://tartine.nyc/): Cozy French bistro in the West Village, great for brunch and dinner. Corned beef hash is a personal favorite, but it's hard to go wrong with anything on the menu.
 
 #### Burgers
 
-- [Corner Bistro](https://cornerbistrony.com/)
-- [David's Cafe](http://www.davidscafenyc.com/)
-- [The Spotted Pig](https://www.thespottedpig.com/)
+- [Corner Bistro](https://cornerbistrony.com/): No frills, cash only.
+- [David's Cafe](http://www.davidscafenyc.com/): The burger reminds me of In n Out.
 
 #### Deli
 
+- [Alidoro](https://www.alidoronyc.com/): Delicious albeit pricey.
 - [Faicco's](https://www.faiccosnyc.com/): Massive sandwiches. The italian special is my personal favorite.
 - [Katz's Deli](https://www.katzsdelicatessen.com/): A New York City staple. Go for the pastrami, don't bother with the other meats.
 
@@ -124,29 +122,6 @@ A collection of awesome things to do in New York City.
 - [Don Angie](https://www.donangie.com/)
 - [il Buco Alimentari & Vineria](https://ilbuco.com/pages/alimentari)
 - [Malaparte](https://www.theinfatuation.com/new-york/reviews/malaparte)
-
-### Landmarks
-
-#### Markets
-
-- Chelsea Market
-- Eataly
-
-#### Museums
-
-- Cloisters
-- Guggenheim
-- Met
-- MoMA
-- Whitney
-
-#### Parks
-
-- Brooklyn Bridge Park
-- Central Park
-- The Highline
-- Prospect Park
-- Rockaway Beach
 
 ### Contribution
 
