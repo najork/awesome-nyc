@@ -15,12 +15,14 @@ A collection of awesome things to do in New York City.
   - [Comedy](#comedy)
   - [Theater](#theater)
 - [Food](#food)
+  - [(New) American](#new-american)
   - [Asian](#asian)
   - [Brunch](#brunch)
   - [Burgers](#burgers)
   - [Deli](#deli)
   - [Groups](#groups)
   - [Italian](#italian)
+  - [Mexican](#mexican)
   - [Pizza](#pizza)
 - [Contribution](#contribution)
 
@@ -80,6 +82,8 @@ A collection of awesome things to do in New York City.
 #### (New) American
 
 - [Four Horsemen](https://www.fourhorsemenbk.com/): Michelin-starred restaurant and wine bar with a great selection of natural wines.
+- [Meadowsweet](http://www.meadowsweetnyc.com/): Delicious food with incredible service. The Venetian Spritz is very refreshing too.
+- [Nura](https://www.nurabk.com/): Modern food with a Mediterranean, Moroccan, and Indian twist. Get the bread sampler and the half chicken. I'm willing to bet that they receive a Michelin star within a year.
 
 #### Asian
 
@@ -123,6 +127,10 @@ A collection of awesome things to do in New York City.
 - [Don Angie](https://www.donangie.com/)
 - [il Buco Alimentari & Vineria](https://ilbuco.com/pages/alimentari)
 - [Malaparte](https://www.theinfatuation.com/new-york/reviews/malaparte)
+
+#### Mexican
+
+- [Oxomoco](https://www.oxomoconyc.com/): Modern Mexican cuisine. It reminds me of fine dining in Mexico City. The pollo steals the show.
 
 ### Contribution
 
