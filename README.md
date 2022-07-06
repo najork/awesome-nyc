@@ -21,6 +21,7 @@ A collection of awesome things to do in New York City.
   - [Burgers](#burgers)
   - [Deli](#deli)
   - [Groups](#groups)
+  - [Ice Cream](#ice-cream)
   - [Italian](#italian)
   - [Mexican](#mexican)
   - [Pizza](#pizza)
@@ -127,6 +128,10 @@ A collection of awesome things to do in New York City.
 - [Don Angie](https://www.donangie.com/)
 - [il Buco Alimentari & Vineria](https://ilbuco.com/pages/alimentari)
 - [Malaparte](https://www.theinfatuation.com/new-york/reviews/malaparte)
+
+#### Italian
+
+- [Cafe Panna](https://www.caffepanna.com/): The best ice cream you'll ever have. Seriously, trust me.
 
 #### Mexican
 
