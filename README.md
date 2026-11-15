@@ -78,6 +78,10 @@ A collection of awesome things to do in New York City.
 - [Drunk Shakespeare](https://www.drunkshakespeare.com/)
 - [Sleep No More](https://mckittrickhotel.com/)
 
+#### Live Music
+
+- [No Stairs Please — NYC & NY Live Music Venues](https://nostairsplease.com/venues/ny): Searchable directory of under-400-capacity live music venues across New York City and New York State.
+
 ### Food
 
 #### (New) American
